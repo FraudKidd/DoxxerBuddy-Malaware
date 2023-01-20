@@ -1,3 +1,106 @@
+
+==== Operating System ====
+
+Version: macOS 12.6 (21G115)
+Kernel:  Darwin 21.6.0
+Arch:    x86_64
+
+=== Installed Software ===
+
+Rubies (rbenv): 2.7.7 3.0.5 3.1.3 
+Default Ruby: 3.0.5
+
+Python Versions (pyenv): 3.11.0 
+Default Python (python3): 3.11.0
+Default Pip (pip3): 22.3
+
+NodeJS Versions (nvm): v18.12.1 v19.2.0 
+Default NodeJS: v18.12.1
+
+Fastlane: 2.211.0
+Cocoapods: 1.11.3
+
+Java (Temurin LTS): openjdk 17.0.5 2022-10-18
+
+========= Xcode ==========
+
+Xcode: 14.2 (14C18)
+Path:  /Applications/Xcode-14.2.app
+Tools: 14.2.0.0.1.1668646533
+Swift: Apple Swift version 5.7.2
+
+======== Runtimes ========
+
+iOS 15.5
+iOS 16.2
+tvOS 16.1
+watchOS 8.5
+watchOS 9.1
+
+======= Simulators =======
+
+-- iOS 15.5 --
+    iPhone 13 Pro (2BF445C5-B223-4C5B-ABFB-B343FA686C00) (Shutdown) 
+    iPhone 13 Pro Max (8A4CFB1C-484A-459E-A08F-AA80A1BE72D8) (Shutdown) 
+    iPhone 13 mini (9EF015E0-26E3-4CF0-8338-F4EB8E83C0BE) (Shutdown) 
+    iPhone 13 (63FF07F4-83BA-48CC-A7AB-6F6D7770DE1C) (Shutdown) 
+    iPhone SE (3rd generation) (27B987A2-631B-494C-B82B-9250DAB548B4) (Shutdown) 
+    iPod touch (7th generation) (CF49EB86-AA50-45D7-8D46-D9DC3AE53211) (Shutdown) 
+    iPad Pro (9.7-inch) (F5348267-FAD8-40E8-8D12-DE13971B63D6) (Shutdown) 
+    iPad (9th generation) (89572413-4FB7-4048-9205-8F533B1DC2D0) (Shutdown) 
+    iPad Pro (11-inch) (3rd generation) (69A11FF3-D102-48B1-9A95-2CF77F8F69AE) (Shutdown) 
+    iPad Pro (12.9-inch) (5th generation) (BB354921-4E7B-4691-82FD-491C8EDE4A4D) (Shutdown) 
+    iPad Air (5th generation) (81A624CA-10EF-4E7D-AF81-558CB315087F) (Shutdown) 
+    iPad mini (6th generation) (909D94E5-18C7-44FC-A68B-8C1543F2FFD8) (Shutdown) 
+-- iOS 16.2 --
+    iPhone SE (3rd generation) (3AEDBC8B-C49E-48B4-9854-8096FA7D5595) (Shutdown) 
+    iPhone 14 (56AE6AAE-7385-4453-AD41-112C369322A6) (Shutdown) 
+    iPhone 14 Plus (21452B8C-7170-4BDF-ABDC-CC69123BC461) (Shutdown) 
+    iPhone 14 Pro (309CE2B6-45C8-4FE5-9B43-87A0A93C72E1) (Shutdown) 
+    iPhone 14 Pro Max (AFF1A48C-D8FA-4F9D-84F0-382F2FB9F1B0) (Shutdown) 
+    iPad Air (5th generation) (1096D066-4531-4174-9AF4-99AF5B10F814) (Shutdown) 
+    iPad (10th generation) (BE3B5223-D9AF-412F-9A73-95F6CA5B5198) (Shutdown) 
+    iPad mini (6th generation) (362D1B0F-D1DF-4337-9CC5-96570437E88B) (Shutdown) 
+    iPad Pro (11-inch) (4th generation) (3D01F8CE-F519-4295-83E8-D690358D829B) (Shutdown) 
+    iPad Pro (12.9-inch) (6th generation) (AAECFEEF-83B9-4964-896F-9DFA5D15647D) (Shutdown) 
+-- tvOS 16.1 --
+    Apple TV (F7B4E92F-BDD7-4AD2-851B-AE586D066D36) (Shutdown) 
+    Apple TV 4K (3rd generation) (06858FA4-A2C5-4D05-8F0D-FD14BF875B33) (Shutdown) 
+    Apple TV 4K (3rd generation) (at 1080p) (5A1EA473-0EFE-4AF3-8949-79ED820DB76D) (Shutdown) 
+-- watchOS 8.5 --
+    Apple Watch Series 5 (40mm) (4B40E41D-DD64-4526-B8C6-96F8DA539F76) (Shutdown) 
+    Apple Watch Series 5 (44mm) (3A961A31-2BE0-4CF1-8AA1-6EE0788EFAFF) (Shutdown) 
+    Apple Watch Series 6 (40mm) (45F46531-49A1-4EF7-B466-69C7CE26C429) (Shutdown) 
+    Apple Watch Series 6 (44mm) (BE96CBBB-055C-4D61-9715-C3D9C2F84B1E) (Shutdown) 
+    Apple Watch Series 7 (41mm) (6D7ACF8B-2E8F-4FD7-B796-E35BDD562889) (Shutdown) 
+    Apple Watch Series 7 (45mm) (196B6A8C-6DEB-4452-A7A2-EA4D57BC83CF) (Shutdown) 
+-- watchOS 9.1 --
+    Apple Watch Series 5 (40mm) (299A21CB-51E2-4D39-B36B-24ED666A2C56) (Shutdown) 
+    Apple Watch Series 5 (44mm) (564A5158-8DCA-44B9-AAB8-DDB914BB671B) (Shutdown) 
+    Apple Watch Series 6 (40mm) (FA3F0ED6-2F6B-4959-BA96-BB7D4E89B3B6) (Shutdown) 
+    Apple Watch Series 6 (44mm) (B22DDA41-E779-4E23-9928-F645C129C06D) (Shutdown) 
+    Apple Watch Series 7 (41mm) (6CA2DB75-F640-45FE-9548-C220FB9575CD) (Shutdown) 
+    Apple Watch Series 7 (45mm) (54116DF9-3C93-4B31-AE5D-6601C0A97FB9) (Shutdown) 
+    Apple Watch SE (40mm) (2nd generation) (3E6F5D3F-34F2-4458-8E03-7DB03227621D) (Shutdown) 
+    Apple Watch SE (44mm) (2nd generation) (20B389DA-BD3E-40F1-BE3B-18AA490E6414) (Shutdown) 
+    Apple Watch Series 8 (41mm) (B882C23C-B54F-4FDD-ADF2-1F560574BA7F) (Shutdown) 
+    Apple Watch Series 8 (45mm) (BC0007AE-970B-43CB-8B62-0FD3D12B5C49) (Shutdown) 
+    Apple Watch Ultra (49mm) (72350E9C-1FA8-4506-B246-89E0313C651B) (Shutdown) 
+
+=== Simulators (Pairs) ===
+
+2E8A2CD0-175F-40C5-854C-CDC4FBF22C0E (active, disconnected)
+    Watch: Apple Watch Series 7 (45mm) (54116DF9-3C93-4B31-AE5D-6601C0A97FB9) (Shutdown)
+    Phone: iPhone 14 (56AE6AAE-7385-4453-AD41-112C369322A6) (Shutdown)
+20C942BE-5C80-42A3-B8DB-2386DEC1D642 (active, disconnected)
+    Watch: Apple Watch Series 8 (41mm) (B882C23C-B54F-4FDD-ADF2-1F560574BA7F) (Shutdown)
+    Phone: iPhone 14 Plus (21452B8C-7170-4BDF-ABDC-CC69123BC461) (Shutdown)
+201067EC-E5FD-49D0-A212-200752075669 (active, disconnected)
+    Watch: Apple Watch Series 8 (45mm) (BC0007AE-970B-43CB-8B62-0FD3D12B5C49) (Shutdown)
+    Phone: iPhone 14 Pro (309CE2B6-45C8-4FE5-9B43-87A0A93C72E1) (Shutdown)
+946C6538-9769-4B0B-8C61-0E7D454FF995 (active, disconnected)
+    Watch: Apple Watch Ultra (49mm) (72350E9C-1FA8-4506-B246-89E0313C651B) (Shutdown)
+    Phone: iPhone 14 Pro Max (AFF1A48C-D8FA-4F9D-84F0-382F2FB9F1B0) (Shutdown)
 # Use the latest 2.1 version of CircleCI pipeline process engine.
 # See: https://circleci.com/docs/2.0/configuration-reference
 version: 2.1
